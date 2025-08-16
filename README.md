@@ -1,4 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Shourya Srivastava
+
+🚀 **Aspiring Software Engineer | Competitive Programmer | Tech Enthusiast**
+
+- 🎓 1st Year B.Tech @ HBTU Kanpur (Mechanical → aiming CS/IT)
+- 💻 Daily solving Data Structures & Algorithms (C++ | Python)
+- 🌍 Exploring Web Development + AI/ML
+- ⚡ Consistency & problem-solving mindset define me
+
+### 🏆 Current Focus
+- 500+ DSA Problems (LeetCode/Codeforces)
+- Building impactful projects with C++/Python
+- Open-source contributions (in-progress)
+
+### 💡 Tech Stack
+`C++` | `Python` | `DSA` | `Git/GitHub` | `Web Dev Basics`
+
+### 📫 Connect with me
+- LinkedIn: [linkedin.com/in/shourya-srivastava](#)
+- Email: shourya@example.com
+
+> ***“Code. Build. Repeat. Excellence is consistency, not luck.”***
+
 
 <!--
 **elite-shourya/elite-shourya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
