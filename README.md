@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Software Engineer | Competitive Programmer | Tech Enthusiast**
 
-- 🎓 1st Year B.Tech @ HBTU Kanpur (Mechanical → aiming CS/IT)
+- 🎓 1st Year B.Tech @ HBTU Kanpur 
 - 💻 Daily solving Data Structures & Algorithms (C++ | Python)
 - 🌍 Exploring Web Development + AI/ML
 - ⚡ Consistency & problem-solving mindset define me
